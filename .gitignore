@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Large raw data (not needed by the deployed app)
+data/online_retail_II.xlsx
+data/online_retail_II.csv
+data/*.xlsx
+data/*.xls
+
+# CatBoost training artifacts
+catboost_info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Streamlit local settings
+.streamlit/secrets.toml
+
+# Virtual documents (Jupyter extension artifacts)
+.virtual_documents/
+.jupyter/
+
+# Misc
+*.log
+*.tmp
