@@ -1,0 +1,11 @@
+Cust_ID,Days_Since_Last,num_orders,Total_Spend,Country_Region
+1001,2,7,"$4,310.00",United Kingdom
+1002,75," 4 ","£1,797.24",France
+1003,-5,1,"$1,757.55",Germany
+1004,310," 1 "," 334.40 ",United Kingdom
+1005,,8,"$2,506.04",Spain
+1006,22,3,"$2,811.43",United Kingdom
+1007,57,4,"$6,372.58",Australia
+1008,3,10,"$5,226.23",United Kingdom
+1009,291,2," 641.38 ",France
+1010,51," 4 ","$3,545.69",United Kingdom
