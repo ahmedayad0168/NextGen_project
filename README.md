@@ -9,7 +9,7 @@ An online retailer treats every customer the same, wasting marketing budget on p
 ---
 
 ## 🚀 Live Demo & Links
-* **Streamlit App:** [Insert your Streamlit Community Cloud URL here]
+* **Streamlit App:** [Customer LTV & Segmentation Engine](https://nextgenproject-ziwww8dcz7t6vmqemusmxc.streamlit.app/)
 * **GitHub Repo:** [NextGen Project Repository](https://github.com/ahmedayad0168/NextGen_project)
 * **Dataset:** [UCI Online Retail II](https://archive.ics.uci.edu/dataset/502)
 
