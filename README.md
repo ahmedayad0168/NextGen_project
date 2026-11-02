@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Lifetime Value & Segmentation Engine
 
 **Project #02 · Retail & Marketing · Clustering + Regression**  
@@ -106,3 +107,7 @@ If you want to re-run the machine learning pipeline from scratch, open `final_pr
 ## 📄 Dataset Citation
 Chen, D. (2012). *Online Retail II*. UCI Machine Learning Repository. https://archive.ics.uci.edu/dataset/502
 ```
+=======
+# NextGen_project
+NextGen Institute — Machine Learning Final Project
+>>>>>>> b99077dc9f01138c8bf06514316051a0f1e3436c
